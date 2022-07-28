@@ -7,6 +7,10 @@
 } */
 .company {
     display: block;
-    justify-content: space-between;
-    align-items: center;
+
+}
+
+.foot {
+    justify-content: space-around;
+
 }
