@@ -5,3 +5,8 @@
 /* .btn {
     margin-left: 150px;
 } */
+.company {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+}
