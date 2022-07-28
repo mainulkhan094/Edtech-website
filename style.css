@@ -1,4 +1,7 @@
-/* .image {
-    width: 100%;
-    background-image: linear-gradient(rgba(18, 18, 18, 0), rgba(18, 18, 18, 100));
+.card {
+    margin-left: 24px;
+}
+
+/* .btn {
+    margin-left: 150px;
 } */
